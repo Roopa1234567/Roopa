@@ -1,0 +1,28 @@
+body{
+text-align:center;
+    background: #70f;
+    color: antiquewhite;
+   font-family: sans-serif;
+}
+
+       img{
+        border: 5px white solid;
+           border-radius: 40px;
+           
+    }
+    
+    ul{
+     padding-left: 320px;
+        padding-right: 320px;
+        list-style: disc;
+        
+    }
+    ol{
+     padding-left: 320px;   
+      padding-right: 320px;  
+       list-style: lower-greek 
+    }
+    
+    
+   
+  
